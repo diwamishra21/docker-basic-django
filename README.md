@@ -1,6 +1,12 @@
 # docker-basic-django
 It contains base image of python and a simple "Hello World" django project in it.
 
+## Prerequisite-
+* python
+* Django
+* ubuntu OS
+* Basic idea of Docker
+
 ## Objective-
 * Creating a django project using docker
 * Creating docker image on dockerhub, it can be usedby anyone now
