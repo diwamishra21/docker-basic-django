@@ -1,23 +1,23 @@
 # docker-basic-django
 It contains base image of python and a simple "Hello World" django project in it.
 
-Objective-
-Creating a django project using docker
-Creating docker image on dockerhub, it can be usedby anyone now
-Creating github repository for this django-docker project
+## Objective-
+* Creating a django project using docker
+* Creating docker image on dockerhub, it can be usedby anyone now
+* Creating github repository for this django-docker project
 
-Reference to Install Docker in Ubuntu 18.4-
+### Reference to Install Docker in Ubuntu 18.4-
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
 
-Installing Django-
+### Installing Django-
 pip3 install django
-Creating project-
+### Creating project-
 django-admin startproject basicdjango
-Creating App-
+### Creating App-
 cd basicdjango
 django-admin startapp myapp
 
-Editing ursl.py-
+### Editing ursl.py-
 sudo su
 nano basicdjango/urls.py
 Edit - path(‘’, include(‘myapp.urls’)),
