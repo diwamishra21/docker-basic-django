@@ -6,6 +6,13 @@ It contains base image of python and a simple "Hello World" django project in it
 * Creating docker image on dockerhub, it can be usedby anyone now
 * Creating github repository for this django-docker project
 
+## Links and references-
+* Why Docker- https://www.docker.com/why-docker
+* Documentation- https://docs.docker.com/
+* Docker Hub- https://hub.docker.com/
+* Docker Important commands- https://docs.docker.com/engine/reference/commandline/docker/
+* Quick Project- https://www.geeksforgeeks.org/dockerizing-a-simple-django-app/
+
 ### Reference to Install Docker in Ubuntu 18.4-
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04
 
